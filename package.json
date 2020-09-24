@@ -2,6 +2,7 @@
   "name": "rayn",
   "version": "0.1.0",
   "private": true,
+  "author": "kevin.nedelec@gmail.com",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -30,5 +31,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "config": {
+    "url": "test.lol",
+    "token": " 0d96c8e12357b946619f9e70ddc104c538db1275"
   }
 }
