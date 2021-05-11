@@ -7,6 +7,7 @@ function App() {
   const key = '3d989e99-cafd-4919-8ef7-36bbefe7eae8'
   const publicGHKey = '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'
   const ggApiKey = 'EAad91C8c8504Be2cAaCb0dDC4E2150efCfDD9BF236E51086717026EF214b1308fdbb0d'
+  const mongoUri= 'mongodb://kjlkjl:AD!N*s_LASKJHA<@mongodb0.rayn.com:27017/?authSource=admin'
   return (
     <div className="App">
       <header className="App-header">
