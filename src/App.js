@@ -6,6 +6,7 @@ function App() {
   const apiUrl = 'api.gitguardian.com'
   const key = '3d989e99-cafd-4919-8ef7-36bbefe7eae8'
   const publicGHKey = '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'
+  const ggApiKey = 'EAad91C8c8504Be2cAaCb0dDC4E2150efCfDD9BF236E51086717026EF214b1308fdbb0d'
   return (
     <div className="App">
       <header className="App-header">
